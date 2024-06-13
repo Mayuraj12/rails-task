@@ -1,0 +1,14 @@
+h1{
+  font-size: 3rem;
+  background-color: #333;
+  text-align: center;
+  color: #fff;
+  padding: 1rem 0;
+}
+button{
+ font-size: 1rem;
+ text-align:center;
+ }
+ body{
+  background-color:black;
+ }

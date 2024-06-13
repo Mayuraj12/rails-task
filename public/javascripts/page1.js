@@ -4,4 +4,3 @@ document.addEventListener('DOMContentLoaded', function() {
         alert('Button was clicked!');
     });
 });
-
